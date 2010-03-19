@@ -1,0 +1,11 @@
+<!ENTITY about "About">
+<!ENTITY aboutVal "tweez">
+
+<!ENTITY version "Version:">
+<!ENTITY versionVal "0.4">
+
+<!ENTITY createdBy "Created By:">
+<!ENTITY createdByVal "dietrich ayala">
+
+<!ENTITY homepage "Home Page:">
+<!ENTITY homepageVal "http://dietrich.ganx4.com">

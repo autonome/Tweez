@@ -1,0 +1,5 @@
+extensions.tweez.description=kui tagging, and other stuff
+
+extensions.tweez.promptTitle=asdf
+extensions.tweez.promptQuestion=Tag all of your bookmarks with the name of their containing folder?
+extensions.tweez.promptCheckQuestion=Also tag with the names of ancestor folders?
