@@ -4,7 +4,7 @@
   <Description about="urn:mozilla:install-manifest">
     <em:id>tweez@dietrich.ganx4.com</em:id>
     <em:name>tweez</em:name>
-    <em:version>0.5.3</em:version>
+    <em:version>0.5.4</em:version>
     <em:creator>dietrich ayala</em:creator>
     <em:description>https://bugzilla.mozilla.org/show_bug.cgi?id=434946</em:description>
     <em:homepageURL>http://autonome.wordpress.com</em:homepageURL>
@@ -15,7 +15,7 @@
       <Description>
         <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id> <!-- firefox -->
         <em:minVersion>3.0</em:minVersion>
-        <em:maxVersion>3.7a4pre</em:maxVersion>
+        <em:maxVersion>4.0</em:maxVersion>
       </Description>
     </em:targetApplication>
   </Description>
