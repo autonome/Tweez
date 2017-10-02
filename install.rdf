@@ -4,7 +4,7 @@
   <Description about="urn:mozilla:install-manifest">
     <em:id>tweez@dietrich.ganx4.com</em:id>
     <em:name>tweez</em:name>
-    <em:version>0.5.4</em:version>
+    <em:version>0.5.5</em:version>
     <em:creator>dietrich ayala</em:creator>
     <em:description>https://bugzilla.mozilla.org/show_bug.cgi?id=434946</em:description>
     <em:homepageURL>http://autonome.wordpress.com</em:homepageURL>
