@@ -1,5 +1,0 @@
-content	tweez	content/
-locale	tweez	en-US	locale/en-US/
-skin	  tweez	classic/1.0	skin/
-overlay	chrome://browser/content/browser.xul	chrome://tweez/content/firefoxOverlay.xul
-overlay	chrome://browser/content/places/places.xul	chrome://tweez/content/libraryOverlay.xul
